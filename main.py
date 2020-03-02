@@ -1,8 +1,19 @@
 print("File main.")
-print("coba ubah nanang")
-print(“wish you were here”)
-print(“ExR”)
+#vian
+print("Virus Corona Heboh")
+print("wish you were here”)
+print("ExR")
 print("Faisal was here")
+
+print("coba ubah nanang")
+print("wish you were here")
+print("ExR")
+print("Faisal was here")
+<<<<<<< HEAD
+print("adit")
+print("wish you were here")
+print("ExR")
+=======
 
 <<<<<<< HEAD
 print("Harris was here")
@@ -19,6 +30,7 @@ print("Faisal was here")
 print("adit")
 print(“wish you were here”)
 print(“ExR”)
+>>>>>>> 3c0f62414405ace3856d33009c8d6682b031dc40
 print("Faisal was here")
 <<<<<<< HEAD
 <<<<<<< HEAD
