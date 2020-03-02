@@ -1,5 +1,6 @@
 print("File main.")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Virus Corona Heboh")
 print("wish you were here”)
 print("ExR")
@@ -7,23 +8,29 @@ print("Faisal was here")
 
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> 5b306ae0ed2e89062d7b70ab6692bb7b3cd887aa
 print("coba ubah nanang")
 print(“wish you were here”)
 print(“ExR”)
 print("Faisal was here")
 
-=======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+#alianto
+print('alianto')
+
+print(“wish you were here”)
+print(“ExR”)
+
+print("Faisal was here")
+
 print("adit")
-=======
-<<<<<<< HEAD
-=======
->>>>>>> bf6012251eff489eb11e7ab0648c2beac8181ef8
 print(“wish you were here”)
 print(“ExR”)
 print("Faisal was here")
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 >>>>>>> 6894ffa0d0b87c0a244accd98a4fedd9baddfb0f
 >>>>>>> 1537371a108ae834ed8e29e1b136c32dc550479f
