@@ -1,8 +1,17 @@
 print("File main.")
+#vian
+print("Virus Corona Heboh")
+print("wish you were here")
+print("ExR")
+print("Faisal was here")
+
 print("coba ubah nanang")
 print("wish you were here")
 print("ExR")
 print("Faisal was here")
+print("adit")
+print("wish you were here")
+print("ExR")
 
 
 #alianto
@@ -14,6 +23,4 @@ print("ExR")
 print("Faisal was here")
 
 print("adit")
-print("wish you were here")
-print("ExR")
 print("Faisal was here")
